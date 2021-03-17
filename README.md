@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **front or back end web development**
 
-- 👩🏻‍💻 All of my projects are available at [cassiecapewell.com](cassiecapewell.com)
+- 👩🏻‍💻 All of my projects are available at **[cassiecapewell.com](https://cassiecapewell.com)**
 
 - 💬 Ask me about **full-stack web dev and copywriting**
 
 - 📫 Reach me at **cassie.capewell@gmail.com**
 
-- ⚡ Fun fact **I also write about hip hop! **cassiecapewell.com/writing**
+- ⚡ Fun fact **I also write about hip hop! [cassiecapewell.com/writing](https://cassiecapewell.com/writing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
