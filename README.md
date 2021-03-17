@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **cassie.capewell@gmail.com**
 
-- ⚡ Fun fact **I also write about hip hop! cassiecapewell.com/writing**
+- ⚡ Fun fact **I also write about hip hop! **cassiecapewell.com/writing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
