@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cassie Capewell</h1>
 <h3 align="center">An ever-curious software engineer from Boston</h3>
 
-- 🔭 I’m currently working on **an app for promoting and sharing local music**
+- 🔭 I’m currently working on **an app for promoting and sharing local hip hop**
 
 - 👯 I’m looking to collaborate on **front or back end web development**
 
