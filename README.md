@@ -5,7 +5,7 @@
 
 - 🧠 I’m currently studying **mvc**
 
-- 👯 I’m looking to collaborate on **front or back end web development**
+- 👯 I’m looking to collaborate on **full stack apps**
 
 - 👩🏻‍💻 All of my projects are available at **[cassiecapewell.com](https://cassiecapewell.com)**
 
