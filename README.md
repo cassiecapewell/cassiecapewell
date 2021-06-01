@@ -3,7 +3,7 @@
 
 - 🔧 I’m currently working on **a full stack web application about planets**
 
-- 🧠 I’m currently studying **react**
+- 🧠 I’m currently studying **spotify authentication**
 
 - 👯 I’m looking to collaborate on **full stack web apps**
 
